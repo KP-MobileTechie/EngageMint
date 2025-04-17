@@ -1,4 +1,8 @@
 {
   "name": "MoneyApp",
-  "displayName": "MoneyApp"
+  "displayName": "MoneyApp",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3684146710951176~4515319020",
+    "ios_app_id": "ca-app-pub-3684146710951176~6720462921"
+  }
 }
